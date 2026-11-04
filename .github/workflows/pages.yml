@@ -11,12 +11,12 @@ permissions:
   id-token: write
 
 concurrency:
-  group: pages
+  group: contraband-pages
   cancel-in-progress: true
 
 jobs:
   deploy:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     timeout-minutes: 25
     environment:
       name: github-pages
