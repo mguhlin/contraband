@@ -1,5 +1,6 @@
-# Contraband Daily Opener a Day · October 2026
+<a id="contraband-daily-opener-a-day-october-2026"></a><a id="contraband-daily-opener-a-day--october-2026"></a>
 
+# Contraband Daily Opener a Day
 A static, privacy-first digital flipbook with **31 daily Contraband openers**. Each date features one Contraband title and two differentiated versions of the same opener:
 
 - **Grades 6–8**: notice, predict, connect, discuss, and short-write moves

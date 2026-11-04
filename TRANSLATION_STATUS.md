@@ -1,6 +1,6 @@
 # Translation Status — contraband
 
-_Generated 2026-09-03. Reflects committed state of `main`._
+_Reflects committed state of `main`._
 
 Target language set (6): **ar, es, hi, ur, vi, zh**. A "book project" = a top-level dir containing `data.en.js`.
 

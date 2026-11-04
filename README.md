@@ -6,7 +6,7 @@ social justice, and identity. The answer to a banned book is to read it, togethe
 
 Live at: `mguhlin.github.io/contraband/` (repo: `mguhlin/contraband`).
 
-© 2026 Miguel Guhlin · content licensed [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Book titles, characters, and quoted passages remain the property of their respective copyright owners.
+© Miguel Guhlin · content licensed [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Book titles, characters, and quoted passages remain the property of their respective copyright owners.
 
 ## What this is
 A standalone site with a **self-contained room engine**. The hub
