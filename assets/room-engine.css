@@ -58,7 +58,7 @@ html[dir="rtl"] .navbtn{text-align:right}
 @media (prefers-reduced-motion:reduce){.screen{animation:none}}
 .panel{background:var(--card);border:2px solid var(--line);border-radius:16px;padding:clamp(18px,3vw,30px);box-shadow:0 4px 18px rgba(20,30,80,.05)}
 .panel + .panel{margin-top:18px}
-.eyebrow{display:inline-block;font-family:'Fredoka',sans-serif;font-weight:700;font-size:.68rem;letter-spacing:.14em;text-transform:uppercase;
+.eyebrow{display:inline-block;font-family:'Fredoka',sans-serif;font-weight:500;font-size:.75rem;letter-spacing:normal;text-transform:none;
   color:#fff;background:var(--accent,var(--plum));padding:5px 13px;border-radius:100px}
 h1.rtitle{font-family:'Fredoka',sans-serif;font-weight:700;color:var(--navy);font-size:clamp(1.5rem,3.2vw,2.3rem);line-height:1.06;margin:12px 0 4px}
 h1.rtitle .byline{color:var(--ink-soft);font-size:.6em;font-weight:600;display:inline-block}
